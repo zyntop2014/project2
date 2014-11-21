@@ -1,0 +1,9 @@
+---
+title: "README"
+author: "Yanan Zhang"
+date: "Friday, November 21, 2014"
+output: html_document
+---
+This is the solutons for ExData in Coursera for project 2.
+
+The files include the plot1.r- plot6.r and plot1.png-plot6.png
